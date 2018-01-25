@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  lab_8.cpp
+f:\учеба\программирование\c_labs\projects\lab_8\lab_8\lab_8.cpp(158): warning C4018: <: несоответствие типов со знаком и без знака
+f:\учеба\программирование\c_labs\projects\lab_8\lab_8\lab_8.cpp(165): warning C4018: <: несоответствие типов со знаком и без знака
+f:\учеба\программирование\c_labs\projects\lab_8\lab_8\lab_8.cpp(179): warning C4018: <: несоответствие типов со знаком и без знака
+f:\учеба\программирование\c_labs\projects\lab_8\lab_8\lab_8.cpp(180): warning C4018: <: несоответствие типов со знаком и без знака
+f:\учеба\программирование\c_labs\projects\lab_8\lab_8\lab_8.cpp(190): warning C4018: <: несоответствие типов со знаком и без знака
+f:\учеба\программирование\c_labs\projects\lab_8\lab_8\lab_8.cpp(191): warning C4018: <: несоответствие типов со знаком и без знака
+f:\учеба\программирование\c_labs\projects\lab_8\lab_8\lab_8.cpp(202): warning C4018: <: несоответствие типов со знаком и без знака
+f:\учеба\программирование\c_labs\projects\lab_8\lab_8\lab_8.cpp(209): warning C4018: <: несоответствие типов со знаком и без знака
+  lab_8.vcxproj -> F:\Учеба\Программирование\C_labs\Projects\lab_8\Debug\lab_8.exe
